@@ -36,9 +36,9 @@ education:
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BSc in Geography
+      institution: University of Southampton
+      year: 2018
 superuser: true
 last_name: Bighetti
 highlight_name: true
