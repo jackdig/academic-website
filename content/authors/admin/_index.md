@@ -1,6 +1,7 @@
 ---
 title: Jack Dignan
 role: PhD Candidate in Tsunami Science
+avatar_filename: img_20181118_121042_bokeh.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
