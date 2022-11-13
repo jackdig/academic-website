@@ -1,6 +1,6 @@
 ---
 title: Jack Dignan
-role: Professor of Artificial Intelligence
+role: PhD Candidate in Tsunami Science
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -30,13 +30,13 @@ organizations:
   - name: University College London (UCL)
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Geography
+    - course: PhD in Statistical Sceince
+      institution: University College London
+      year: ""
+    - course: MSc in Geological and Environmental Hazards
+      institution: University of Portsmouth
+      year: 2019
+    - course: BSc (Hons) in Geography
       institution: University of Southampton
       year: 2018
 superuser: true
