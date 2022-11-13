@@ -5,9 +5,10 @@ avatar_filename: img_20181118_121042_bokeh.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Tsunami inundation
+  - Smoothed particle hydrodynamics
+  - Statistical learning
+  - High-resolution modelling
 social:
   - icon: envelope
     icon_pack: fas
